@@ -1,1 +1,1 @@
-A scratch python script that spams projects with whatever you select.
+a selection of scratch bots that you can use to spam and annoy others
